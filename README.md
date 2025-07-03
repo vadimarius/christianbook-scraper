@@ -1,6 +1,7 @@
 # christianbook-scraper
 
-A fully asynchronous Python scraper for collecting book data from [Academic category on christianbook.com](https://tinyurl.com/christianbook-academic).
+A fully asynchronous Python scraper for collecting book data from [Academic Books category on christianbook.com](https://is.gd/zyCHcg)
+.
 
 
 You provide a link to a main category (e.g. “eBooks” or “Christian Living”), and the script will automatically process all subcategories, handle pagination, and visit every product page to extract detailed information.
